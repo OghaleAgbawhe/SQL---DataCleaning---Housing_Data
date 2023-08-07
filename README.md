@@ -2,7 +2,7 @@
 
 Welcome to my Housing Data Cleaning Project! This project focuses on utilizing SQL queries to clean and enhance the "NashvilleHousing" dataset, which contains housing information for Nashville. The goal is to transform raw data into a more structured and usable format.
 
-## Project Overview
+**Project Overview**
 The dataset required several data cleaning steps to ensure accuracy and consistency. The primary cleaning tasks are outlined below:
 
 Standardizing Date Format: The SaleDate column had inconsistent date formats. SQL queries were used to standardize the date format and create a new column named SaleDateConverted.
@@ -24,15 +24,21 @@ Throughout this project, the following SQL skills were showcased:
 
 Data cleaning using SQL queries
 
+
 Data transformation and manipulation
+
 
 Handling null values
 
+
 String manipulation using functions like SUBSTRING, PARSENAME, and REPLACE
+
 
 Standardizing and converting data values
 
+
 Identifying and handling duplicates
+
 
 Dropping columns from a table
 
