@@ -23,11 +23,17 @@ Deleting Unused Columns: Unused columns such as OwnerAddress, TaxDistrict, Prope
 Throughout this project, the following SQL skills were showcased:
 
 Data cleaning using SQL queries
+
 Data transformation and manipulation
+
 Handling null values
+
 String manipulation using functions like SUBSTRING, PARSENAME, and REPLACE
+
 Standardizing and converting data values
+
 Identifying and handling duplicates
+
 Dropping columns from a table
 
 
